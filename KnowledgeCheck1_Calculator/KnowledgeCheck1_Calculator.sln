@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeCheck1_Calculator", "KnowledgeCheck1_Calculator.csproj", "{533003DB-C63B-48EC-A7C7-8A8C8DB6FB14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533003DB-C63B-48EC-A7C7-8A8C8DB6FB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533003DB-C63B-48EC-A7C7-8A8C8DB6FB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533003DB-C63B-48EC-A7C7-8A8C8DB6FB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533003DB-C63B-48EC-A7C7-8A8C8DB6FB14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {227EEE05-3199-4340-9365-9423D8FABA57}
+	EndGlobalSection
+EndGlobal
